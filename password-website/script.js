@@ -33,5 +33,3 @@ function checkPassword(){
         tips.appendChild(li);
     }
 }
-
-console.log("JS geht");
